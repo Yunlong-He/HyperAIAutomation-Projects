@@ -81,7 +81,6 @@ Below are some comprehensive platforms.
 MCP extends LLM capabilities to utilize external systems.
 | Project         | Description                                                            | Code Github                                                                                                              |
 | --------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **MCP Spec**    | Canonical spec for tools/servers enabling model‑tool interoperability. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/modelcontextprotocol/spec)    |
 | **MCP Servers** | Official & community servers (FS, Git, REST, secrets, etc.).           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/modelcontextprotocol/servers) |
 | **modelcontextprotocol/spec**    | The official specification for MCP, including types, protocols, and usage guidelines.                                 | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/modelcontextprotocol/spec)                          |
 | **modelcontextprotocol/servers** | A collection of ready-to-use and reference MCP servers (e.g., file, git, REST, secrets). Great for agent development. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/modelcontextprotocol/servers)                       |
