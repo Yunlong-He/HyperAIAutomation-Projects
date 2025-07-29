@@ -46,6 +46,8 @@ Below are some comprehensive platforms.
 | **MetaGPT**           | “Company‑of‑agents” pattern for multi‑role collaboration on tasks/code.    | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/geekan/MetaGPT)               |
 | **OpenAI Swarm**      | Lightweight, minimal orchestration for multi‑agent swarms (Python).        | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/openai/swarm)                 |
 | **MemGPT**            | Long‑term memory & self‑reflections for agentic systems.                   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/cpacker/MemGPT)               |
+| **500+ AI Agent Projects / UseCases**            | A curated collection of AI agent use cases across industries.                   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/ashishpatel26/500-AI-Agents-Projects)               |
+
 
 # Code & Dev Assistants (Agentic Coding)
 | Project                      | Description                                                              | Code Github                                                                                                         |
@@ -76,6 +78,7 @@ Below are some comprehensive platforms.
 | **Haystack Chat** | Chat pipelines & agents (from Haystack) for search/RAG assistants.      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/deepset-ai/haystack) |
 
 # MCP (Model Context Protocol)
+MCP extends LLM capabilities to utilize external systems.
 | Project         | Description                                                            | Code Github                                                                                                              |
 | --------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | **MCP Spec**    | Canonical spec for tools/servers enabling model‑tool interoperability. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/modelcontextprotocol/spec)    |
