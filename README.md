@@ -60,6 +60,8 @@ Below are some comprehensive platforms.
 | **aider**                    | CLI pair‑programmer that edits your repo using structured diffs/patches. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/paul-gauthier/aider)     |
 | **Continue**                 | Open‑source VS Code/JetBrains AI coding assistant; MCP compatible.       | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/continuedev/continue)    |
 | **ChatDev**                  | Multi‑agent software factory simulation producing code artifacts.        | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/OpenBMB/ChatDev)         |
+| **mini-swe-agent**                  | The 100 line AI agent that solves GitHub issues & more.        | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/SWE-agent/mini-swe-agent.git)         |
+
 
 # RPA & UI Automation
 | Project             | Description                                                             | Code Github                                                                                                               |
