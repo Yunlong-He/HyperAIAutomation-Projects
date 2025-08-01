@@ -69,6 +69,9 @@ Below are some comprehensive platforms.
 | **Robot Framework** | Generic automation framework (keyword‑driven); RPA libraries available. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/robotframework/robotframework) |
 | **RPA Framework**   | Robocorp’s Python libraries for RPA (web, desktop, PDF, e‑mail…).       | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/robocorp/rpaframework)         |
 | **UI.Vision RPA**   | Browser/desktop automation with computer vision; Selenium‑friendly.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/A9T9/RPA)                      |
+| **Worktool**   | Enterprise wechat tool on Android, no hacking needed, with a server manager.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/gallonyin/worktool)                      |
+| **Ntwork**   | Enterprise wechat tool in PC, need specified version of enterprise wechat.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/dev-kang/ntwork)                      |
+| **wxwork_pc_api**   | Enterprise wechat hacking API.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)]()                      |
 
 # Chatbot / Conversational AI Platforms (Agent‑Capable)
 | Project           | Description                                                             | Code Github                                                                                                     |
