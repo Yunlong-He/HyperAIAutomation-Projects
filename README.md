@@ -38,6 +38,7 @@ Below are some comprehensive platforms.
 | **Microsoft AutoGen** | Multi‑agent conversation framework for solving complex tasks.              | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/autogen)            |
 | **Semantic Kernel**   | Orchestration SDK for planning, memory, connectors, and tools.             | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/microsoft/semantic-kernel)    |
 | **CrewAI**            | Role‑based multi‑agent framework with tools, tasks, and process flows.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/crewAIInc/crewAI)             |
+| **Eigent**            | A Multi-agent Workforce.     | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/eigent-ai/eigent)             |
 | **SuperAGI**          | Multi‑agent framework with tools, vector stores, and dashboards.           | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/SuperAGI/superagi)            |
 | **AutoGPT**           | Autonomous agent that decomposes goals into tasks and executes tools.      | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/Significant-Gravitas/AutoGPT) |
 | **AgentGPT**          | Browser‑based autonomous agent launcher (self‑hostable).                   | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/reworkd/AgentGPT)             |
@@ -104,11 +105,10 @@ MCP extends LLM capabilities to utilize external systems.
 | **Ansible**      | IT automation for provisioning/configs; usable as agent action layer. | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/ansible/ansible) |
 | **Salt Project** | Event‑driven IT automation and remote execution platform.             | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/saltstack/salt)  |
 
-# Benchmarks, Evaluation & Datasets for Agents
+# Knowlege Base
 | Project          | Description                                                             | Code Github                                                                                                  |
 | ---------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **OpenAI Evals** | Framework for evaluating LLMs/agents with custom evals.                 | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/openai/evals)     |
-| **AgentBench**   | Large‑scale benchmark for LLM‑based agents on real‑world tasks (THUDM). | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/THUDM/AgentBench) |
+| **Chunkr** | Open Source Document Intelligence API                 | [![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://github.com/lumina-ai-inc/chunkr)     |
 
 # Home & IoT Automation (Agent‑Friendly Backends)
 | Project            | Description                                                                 | Code Github                                                                                                      |
